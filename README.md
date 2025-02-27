@@ -55,5 +55,5 @@
 - **Windows:** openal32.dll
 - **Linux:** OpenAL package (`libopenal1` or `libopenal.so`)
 
-## License
-**MIT**
+## License:
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
