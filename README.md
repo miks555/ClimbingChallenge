@@ -1,4 +1,7 @@
 # Climbing Challenge
+![image](https://github.com/user-attachments/assets/cefb028a-eb3a-49b3-bbfa-50501a340477)
+
+
 
 ## Overview
 **Climbing Challenge** is a 2D platformer game where the player controls a climber attempting to ascend a mountain while avoiding obstacles and collecting supplies. The game features dynamic difficulty scaling, physics-based movement, and an immersive audiovisual experience.
